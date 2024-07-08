@@ -70,13 +70,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 - Built with [Node.js](https://nodejs.org/) and [Express](https://expressjs.com/).
 
 ```
-
-### Explanation:
-
-- **Title and Description**: Clearly states the name and purpose of the project.
-- **Features**: Lists key features of the weather app.
-- **Installation**: Provides step-by-step instructions on how to install and set up the project.
-- **Usage**: Guides users on how to obtain necessary API keys, set up environment variables, start the application, and access it in a web browser.
-- **Contributing**: Outlines how others can contribute to the project.
-- **License**: Specifies the project's license.
-- **Acknowledgements**: Gives credit to any APIs, libraries, or frameworks used.
