@@ -68,5 +68,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 - Thanks to [Weather API Provider](https://weatherapi.com) for providing weather data.
 - Built with [Node.js](https://nodejs.org/) and [Express](https://expressjs.com/).
-
-```
